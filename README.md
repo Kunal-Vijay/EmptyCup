@@ -1,5 +1,7 @@
-# EmptyCup
+# EmptyCup 
+Frontend : https://emptycupkunal.netlify.app/
 
+Backend : https://emptycup-backend-1c6i.onrender.com
 # Installation
 
 1. Clone the repository
